@@ -1,5 +1,6 @@
 import requests
 import sys
+import json
 
 class Colors:
     OKBLUE = '\033[94m'
